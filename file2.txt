@@ -1,2 +1,2 @@
-this is code1 of file2.txt
-this is new code1 of file2.txt
+this is code1 of file2.txt.
+this is new code1 of file2.txt.
